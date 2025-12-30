@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(copy \"C:\\\\Users\\\\HDD BANK\\\\Downloads\\\\dp pro.jfif\" \"C:\\\\Users\\\\HDD BANK\\\\Desktop\\\\faiza-portfolio\\\\profile-picture.jpg\")",
+      "Bash(start index.html)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:api.github.com)"
+    ]
+  }
+}
